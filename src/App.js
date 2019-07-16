@@ -26,7 +26,7 @@ class App extends React.Component {
             </li>
           </ul>
         </nav>
-        {this.state.name ? <iframe title={students[this.state.name].title} scrolling="no" src={students[this.state.name].src} width={800} height={500}></iframe> : <></>}
+        {this.state.name ? <iframe title={students[this.state.name].title} scrolling="no" src={"https://www.cracking.com.ar/redir/redir.php?URL=" + students[this.state.name].src} width={800} height={500}></iframe> : <></>}
         <p>Each project made was the student's original work. They coded it in Python.</p>
       </main>
     );
