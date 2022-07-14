@@ -3,6 +3,8 @@ const students = {
   "David B": [
     "https://replit.com/@buckldav/DinoGameP5Starter",
     "https://replit.com/@buckldav/PizzaStarter",
+  ],
+  "Devin H, Ethan A": ["https://DinosaurDE.ethanapsley1.repl.co"],
    "Ben B" : ["https://replit.com/@BenBoucher/Circular-Jungle"],
 };
 
