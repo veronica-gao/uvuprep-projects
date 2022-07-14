@@ -4,6 +4,7 @@ const students = {
     "https://replit.com/@buckldav/DinoGameP5Starter",
     "https://replit.com/@buckldav/PizzaStarter",
   ],
+  "Atticus R": ["https://final-project-cs.mckellhardman.repl.co"]
 };
 
 const studentsSorted = Object.keys(students)
