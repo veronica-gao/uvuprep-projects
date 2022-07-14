@@ -7,8 +7,8 @@ const students = {
   "Ben B": ["https://replit.com/@BenBoucher/Circular-Jungle"],
   "Shantel G": ["https://Jarorld-the-Block-Friend.hamyyystar.repl.co"],
   "McKell H": ["https://final-project-cs.mckellhardman.repl.co"],
-  "Alan M": ["https://replit.com/@Jibusentanna/DinoGameP5Starter-3?from=notifications#enemy.js"],
-  "Gibson T": ["https://replit.com/@Jibusentanna/DinoGameP5Starter-3?from=notifications#enemy.js"],
+  "Alan M": ["https://replit.com/@Jibusentanna/DinoGameP5Starter-3"],
+  "Gibson T": ["https://replit.com/@Jibusentanna/DinoGameP5Starter-3"],
 };
 
 const studentsSorted = Object.keys(students)
