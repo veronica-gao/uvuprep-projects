@@ -3,7 +3,7 @@ const students = {
   "David B": [
     "https://replit.com/@buckldav/DinoGameP5Starter",
     "https://replit.com/@buckldav/PizzaStarter",
-  ],
+   "Ben B" : ["https://replit.com/@BenBoucher/Circular-Jungle"],
 };
 
 const studentsSorted = Object.keys(students)
