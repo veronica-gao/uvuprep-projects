@@ -4,7 +4,11 @@ const students = {
     "https://replit.com/@buckldav/DinoGameP5Starter",
     "https://replit.com/@buckldav/PizzaStarter",
   ],
-"Ty N": ["https://2vs5qo.csb.app/"]
+  "Ty N": ["https://2vs5qo.csb.app/"],
+  "Atticus R": ["https://final-project-cs.mckellhardman.repl.co"],
+  "Abby H": ["https://replit.com/@Abbers/CYOA-p5#script.js"],
+  "Ayden W": ["https://Actual-Final-CS-Project-Attemt-4.awoof07.repl.co"],
+  "Devin H, Ethan A": ["https://DinosaurDE.ethanapsley1.repl.co"],
 };
 
 const studentsSorted = Object.keys(students)
