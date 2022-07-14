@@ -5,6 +5,7 @@ const students = {
     "https://replit.com/@buckldav/PizzaStarter",
   ], 
   "Abby H": ["https://replit.com/@Abbers/CYOA-p5#script.js"],
+  "Devin H, Ethan A": ["https://DinosaurDE.ethanapsley1.repl.co"],
 };
 
 const studentsSorted = Object.keys(students)
