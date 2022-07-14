@@ -4,6 +4,7 @@ const students = {
     "https://replit.com/@buckldav/DinoGameP5Starter",
     "https://replit.com/@buckldav/PizzaStarter",
   ],
+"Ty N": ["https://2vs5qo.csb.app/"]
 };
 
 const studentsSorted = Object.keys(students)
